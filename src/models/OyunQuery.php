@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\Oyun\models;
+namespace enestelli\Oyun\models;
 
 /**
  * This is the ActiveQuery class for [[Oyun]].
