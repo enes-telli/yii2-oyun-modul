@@ -14,7 +14,7 @@ composer create-project --prefer-dist yiisoft/yii2-app-advanced advanced
 Sonrasında projenizin ana dizinine gidiniz ve aşağıdaki komutu çalıştırarak modül kurulumunu gerçekleştiriniz.
 
 ```console
-composer require --prefer-dist tahayldz/yii2-sikayet-modul "dev-main"
+composer require --prefer-dist enestelli/yii2-oyun-modul "dev-main"
  ```
 
 Sonrasında `backend\config` dizinindeki `main.php` dosyasını düzenlemek için açınız. Aşağıda gösterildiği şekilde düzenlemeyi yaparak modülü ekleyiniz.
